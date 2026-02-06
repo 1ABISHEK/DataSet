@@ -1,0 +1,27 @@
+Lecture 1 (Video 14):- 
+1) What is Data?
+2) What is SQL?
+
+Lecture 2 (Video 15):- 
+1) How to create Database
+2) How to create table
+3) How to insert value inside table
+
+
+Lecture 3 (Video 16):-
+1) How to display table (using select query)
+2) How to comment in MYSQL (using --This is comment)
+3) What is Schemas? Is a Structure of Database.  
+
+
+Lecture 4 (Video 17):-
+1) What is ER Diagram?
+2) What is Relationship, Attribute, Entity, Multiple Attribute, Weak Entity
+
+
+Lecture 5 (Video 18):-
+1)
+2)
+3)
+4)
+5)

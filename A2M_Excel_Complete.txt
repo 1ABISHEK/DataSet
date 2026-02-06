@@ -1,0 +1,100 @@
+Lecture 1 (Video 3):-(Google Sheet Shared in What's app group check out that for 1/2/3/4 Lecture)
+1) What is Sheet
+2) How to Undo the Work
+3) What is paint Format 
+4) How to Zoom IN/OUT in Google Sheet.
+5) Text & Number FashFill series
+6) How to change Text(Font) background, color, Size , bold , Italic 
+7) How to set Border for Range (Make it in table form).
+8) How to Adding/Duplicate/Delete Sheet in Google workbook.
+9) Adding/Delete Column and Rows in Google sheet.
+10) How to freeze rows/column in Google sheet.
+11) How to get address for Cell.
+
+Lecture 2 (Video 4):-(Google Sheet Shared in What's app group check out that for 1/2/3/4 Lecture)
+1) How to Redo the Work.
+2) How to find word in Google Sheet (use Ctrl + F).
+3) Downfall of Ctrl + F (To find Word) is you can only find one word at a Time.
+4) How Sort Text, Number Value in Column (A to Z , Z to A , Ascending and descending wise verse).
+5) How to Count the value in cell (using below count, sum , avg function).
+6) How to print your sheet in different format.
+7) Formatting Currency as Country Wise & Mentioning right Column Header(as it should not provide mis-information Lakh/crore) (Very imp if your dealing with International Data)
+8) To understand Date and time Format (mm-dd-yyyy) (123 --> custom date and time format).
+9) How to Change Font style (Time New Roman is standard format style use mostly) (Try Montserrat style).
+
+Lecture 3 (Video 5):-(Google Sheet Shared in What's app group check out that for 1/2/3/4 Lecture)
+1) How to increase and decrease decimal point in any numerical value.
+2) How to strike off number (like iPhone price before it was 89,999 strike off now its 79,999)
+3) How to border the table and increase the thickness of borders.
+4) Merge and center text in the cell (cell can unmerge by clicking on it again).
+5) How to align text left right and center inside cell(number are usually right and text will be in left side).
+6) How to wrap up text (it will won't effect cell width it will only effect cell height)
+7) Check for text rotation option in google sheet (like vertical , horizontal etc 360* from).
+8) How to insert link (check for insert link option shubhambhogte_ this text in form of link).
+9) Hoe to share your work on google sheet (with & without striction with your friends).
+10) IMPORTANT :- Need to complete an assignment like a school time table for a week an submit it in google sheet.
+11) How to insert a comment on any cell(check for comment option above tabs).
+12) Check for how to make a dropdown button for cell (etc given in video is married yes/no ).
+13) Check for both the option above how to insert image (insert image in cell / insert image over cell).
+14) how to insert emoji inside cell(shortcut widows + semi colon) / and smart chips (like attach file, calendar, people)
+
+Lecture 4 (Video 6):-(Google Sheet Shared in What's app group check out that for 1/2/3/4 Lecture)
+1) Explore chart in google sheet.
+2) Used SUM formula(to add one numerical value to another numerical value)
+3) How to concat two text value an make it as one. 
+4) How to remove duplicate and Trim Whitespace also Check for Cleanup suggestion.
+5) Check for Data connector (looker/ Big query) NOT SHOWNED IN THE VIDEO (will learn in google locker studio part).
+************EXCEL VIDEO STARTED***************
+6) How to Adding/Duplicate/Delete excel sheet. 
+7) How to zoom Im/Out in excel sheet.
+8) How to change Text(Font) background, color, Size , bold , Italic , merge & center , Warp-up text.
+9) Change a format of cell (numerical, text, date, currency).
+
+Lecture 5 (Video 7):-
+1) First imp things to understand your given data.(Excel file Name:- Formula Excel Template)
+2) Used MAX/MIN formula in number value / Date 
+3) How to use LEN, TRIM, CONCAT, Substitute (it will replace first word that you mention instance number & lower/upper case is very imp in text form)Formulas.  
+
+Lecture 6 (Video 8):- (Excel file Name:- Formula Excel Template)
+1) How to use IF / IFS formula
+2) How to use SUM/SUMIF/SUMIFS formula
+3) How to use COUNT/COUNTIF/COUNTS formula
+
+Lecture 7 (Video 9):- (Excel file Name:- Formula Excel Template)
+1) How to use DateToText formula
+2) How to use LeftRight formula (if your given text/data is having space it will show same space in output as well)
+3) How to use Days & NetworkDays formula =days(end_date,start_date)
+4) How RandBetween formula works =randbetween(start_number,end_number)
+5) Explore Kaggle website for free data sources different/multiple domain.
+
+Lecture 8 (Video 10):- (Excel file Name:- Conditional Formatting Excel Tutorial file)
+1) 3 IMP step to know for any problem 1.To understand the data 2.Root Cause Analysis(96%) 3.Solution 
+2) Conditional formatting means to format the things base on some condition given.
+3) Conditional formatting base on icon set.(Conditional Formatting Excel Tutorial file:-Sales sheet)
+4) Conditional formatting base on Highlight Cell Rules.(Explore all the options) (You check Manage Rules option)
+5) Conditional formatting base on Text that contains & Top/Bottom Rules.
+6) Conditional formatting base on Color Scales & Data Bars.
+7) Conditional formatting base on New Rules.
+
+Lecture 9 (Video 11):- (Data Cleaning Excel Tutorial File)
+1 step:- Creating copy of original sheet.(right click on current sheet move or copy --> Create a copy)
+2 step:- Rename to the copy sheet as (Working sheet)
+3 step:- First thing to do is remove duplicate data (Data --> Remove Duplicates [Always Tick my data has header])
+4 step:- Fixed Name format By using (insert new column --> use proper formula /use Trim formula (For extra space in 	 between) --> paste as value/text).
+	 Use Filter in every column and check for spelling mistake / repeated data (use drag down option or copy 	 the correct spelling and paste it)
+5 step:- Always remove Currency symbol from currency column kept it in number mention respective currency inside 
+	 header column.
+6 step:- Then check for Date column and its format (use filter & go through incorrect format/repeated data)
+         OR Always remember select column and choose (Short Date format) 
+Q... check for how to Freeze header/column/few Top rows (View Tab--> Freeze Panes)
+
+Lecture 10 (Video 12):- (Excel Project Dataset File) (Excel Project Video 1)
+1 step:- To understand the Data
+2 step:- Create a duplicate sheet of the original one
+3 step:- Remove duplicate (Data --> Remove Duplicate)
+4 step:- Replace M of Marital status S of Single and M for Male F for Female   
+5 step:- Filter the Columns check for correct spelling or any spelling mistake.
+6 step:- Bucket the Age Column as (Age Bucket summarizer the age column)
+7 step:- Now convert the sheet into pivot table (tips:-select on first cell then press ctrl + A to select whole 	 table)
+ 
+Lecture 11 (Video 13):- Excel Dashboard Project.(Excel Project Data:- Go through file project done)
